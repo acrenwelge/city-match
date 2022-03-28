@@ -1,0 +1,51 @@
+id,name,abr,tax_burden,economic_freedom,social_freedom
+1,Alabama,AL,9.0,0.125,0.028
+2,Alaska,AK,5.8,0.034,0.108
+3,Arizona,AZ,8.7,0.165,0.157
+4,Arkansas,AR,10.4,0.137,0.005
+5,California,CA,11.5,-0.543,0.069
+6,Colorado,CO,9.4,0.139,0.123
+7,Connecticut,CT,12.8,0.010,0.007
+8,Delaware,DE,10.3,-0.195,-0.008
+9,Florida,FL,8.8,0.449,0.104
+10,Georgia,GA,8.9,0.288,0.043
+11,Hawaii,HI,12.7,-0.601,-0.002
+12,Idaho,ID,9.6,0.298,0.016
+13,Illinois,IL,11.1,-0.063,0.049
+14,Indiana,IN,8.9,0.263,0.105
+15,Iowa,IA,10.8,0.004,0.090
+16,Kansas,KS,10.1,0.079,0.047
+17,Kentucky,KY,9.9,0.137,-0.001
+18,Louisiana,LA,9.2,0.011,0.055
+19,Maine,ME,11.0,-0.158,0.190
+20,Maryland,MD,11.8,-0.327,0.045
+21,Massachusetts,MA,10.5,0.025,0.069
+22,Michigan,MI,10.0,0.227,0.122
+23,Minnesota,MN,12.1,-0.117,0.076
+24,Mississippi,MS,9.5,-0.086,0.029
+25,Missouri,MO,9.2,0.174,0.100
+26,Montana,MT,10.1,0.081,0.096
+27,Nebraska,NE,10.3,-0.022,0.081
+28,Nevada,NV,9.7,0.210,0.302
+29,New Hampshire,NH,9.7,0.367,0.225
+30,New Jersey,NJ,11.7,-0.424,-0.036
+31,New Mexico,NM,8.8,-0.282,0.159
+32,New York,NY,14.1,-0.757,-0.056
+33,North Carolina,NC,9.5,0.096,0.097
+34,North Dakota,ND,8.9,0.092,0.103
+35,Ohio,OH,10.3,0.058,0.022
+36,Oklahoma,OK,8.2,0.085,0.075
+37,Oregon,OR,11.1,-0.428,0.118
+38,Pennsylvania,PA,10.4,0.131,0.068
+39,Rhode Island,RI,11.4,-0.138,0.045
+40,South Carolina,SC,8.9,0.088,0.037
+41,South Dakota,SD,9.1,0.332,0.093
+42,Tennessee,TN,7.0,0.417,0.024
+43,Texas,TX,8.0,0.200,-0.046
+44,Utah,UT,9.6,0.100,0.056
+45,Vermont,VT,12.3,-0.343,0.167
+46,Virginia,VA,10.0,0.200,0.026
+47,Washington,WA,9.8,-0.116,0.073
+48,West Virginia,WV,9.9,-0.078,0.100
+49,Wisconsin,WI,10.7,0.110,0.081
+50,Wyoming,WY,7.0,0.108,0.020

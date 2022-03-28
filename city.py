@@ -2,16 +2,15 @@ from enum import Enum
 
 class City:
 
-    def __init__(self,name,state,pop,weather,tax_burden,col):
+    def __init__(self,name,state,pop,weather,col):
         self.name = name
         self.state = state
         self.pop = pop
         self.weather = weather
-        self.tax_burden = tax_burden
         self.col = col
     
     def __str__(self) -> str:
-        return ",".join([self.name,self.state,str(self.pop),self.weather,str(self.tax_burden),str(self.col)])
+        return ",".join([self.name,self.state,str(self.pop),self.weather,str(self.col)])
 
 class CitySize(Enum):
     SMALL = 250000

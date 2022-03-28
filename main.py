@@ -79,7 +79,7 @@ def read_csv():
         citylist = []
         next(cityreader)
         for city in cityreader:
-            cityToInsert = City(city[1],city[2],int(city[3]),city[4],float(city[5]),float(city[6]))
+            cityToInsert = City(city[1],city[2],int(city[3]),city[4],float(city[5]))
             citylist.append(cityToInsert)
         return citylist
 
