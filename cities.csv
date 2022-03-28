@@ -1,0 +1,4 @@
+id,name,state,population,weather,tax_burden,COL,economic_freedom,social_freedom
+1,New York,NY,8177025,COLD/SNOWY,14.1,187.2
+2,Los Angeles,CA,3985516,TROPICAL,11.5,173.3
+3,Chicago,IL,2671635,COLD/SNOWY,11.1,106.9
