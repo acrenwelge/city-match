@@ -8,6 +8,11 @@ Inspired by [@balajis](https://twitter.com/balajis), an app for matching individ
 * Crowd choice - aggregate group of friends preferences, find closest match
 * Provide weighting by personal preference
 
+## Usage
+```bash
+python main.py
+```
+
 ## Dimensions of Personal Preferences
 * Population Size
 * Weather / climate

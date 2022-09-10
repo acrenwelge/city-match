@@ -1,0 +1,3 @@
+Next features:
+- change matching algorithm to allow users to rank their preferences
+- change matching algorithm to optimize for highest rank matches, not require a "perfect" match on all dimensions

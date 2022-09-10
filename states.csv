@@ -1,4 +1,4 @@
-id,name,abr,tax_burden,economic_freedom,social_freedom
+id,name,abbr,tax_burden,economic_freedom,social_freedom
 1,Alabama,AL,9.0,0.125,0.028
 2,Alaska,AK,5.8,0.034,0.108
 3,Arizona,AZ,8.7,0.165,0.157
